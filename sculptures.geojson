@@ -1,0 +1,296 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dr.Barnardo's Memorial",
+        "artist": "Sir George Frampton",
+        "description": "",
+        "style": "",
+        "year": 1908
+      },
+      "geometry": {
+        "coordinates": [
+          0.084012,
+          51.585979
+        ],
+        "type": "Point"
+      },
+      "id": "2cb63e1ea77704161eff90059355dcb8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Statue of Henry Irving",
+        "artist": "Sir Thomas Brock",
+        "year": "",
+        "description": "",
+        "directions": "",
+        "style": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -0.128307,
+          51.509927
+        ],
+        "type": "Point"
+      },
+      "id": "2d13cd452143296463bf02750f487a40"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Peter Pan Statue",
+        "artist": "Sir George Frampton",
+        "description": "",
+        "style": "",
+        "year": "",
+        "directions": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -0.175962,
+          51.508616
+        ],
+        "type": "Point"
+      },
+      "id": "33dbb0a5b42573bb678b3c83ff950288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Statue of James Cook",
+        "artist": "Sir Thomas Brock",
+        "style": "",
+        "year": "",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -0.129275,
+          51.506317
+        ],
+        "type": "Point"
+      },
+      "id": "3d650460e57603d3c9da12e94afb5ed4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "artist": "Sir George Frampton",
+        "title": "Lions at the British Museum",
+        "year": "",
+        "directions": "",
+        "style": "figurative",
+        "description": "Sir George Frampton"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.127826,
+          51.520163
+        ],
+        "type": "Point"
+      },
+      "id": "431e4eee3c3e212809f767558167f7b1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "artist": "Sir Thomas Brock",
+        "title": "Victoria Memorial",
+        "year": 1924,
+        "directions": "directions",
+        "style": "figurative",
+        "description": "Sir Thomas Brock"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.140588,
+          51.501839
+        ],
+        "type": "Point"
+      },
+      "id": "7369ce4f98cc5c11654ee9ae476f75a0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lord Lister Statue",
+        "artist": "Sir Thomas Brock",
+        "year": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -0.145987,
+          51.522421
+        ],
+        "type": "Point"
+      },
+      "id": "913aec0998cccb7b4a3a712ac8a8ae05"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Royal Society of Sculptors",
+        "description": "The Royal Society of Sculptors is a center for contemporary sculpture in London. It is the oldest and largest organisation dedicated to sculpture in the UK"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.179495,
+          51.491623
+        ],
+        "type": "Point"
+      },
+      "id": "92e75f485c6d78cab916b50983284656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Queen Mary",
+        "artist": "Sir George Frampton",
+        "year": "",
+        "directions": "",
+        "description": "",
+        "style": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -0.091401,
+          51.515513
+        ],
+        "type": "Point"
+      },
+      "id": "95b27dc883188a72aceef57f63a498d9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Edith Cavell Memorial Statue",
+        "artist": "Sir George Frampton",
+        "style": "figurative",
+        "directions": "",
+        "year": "",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -0.127183,
+          51.509323
+        ],
+        "type": "Point"
+      },
+      "id": "a140681c4021ec88e24aff5d3c37b1d8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "artist": "Sir Thomas Brock",
+        "title": "Statue of Robert Raikes",
+        "year": 1880,
+        "style": "figurative",
+        "directions": "directions",
+        "description": "Sir Thomas Brock"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.12027,
+          51.509277
+        ],
+        "type": "Point"
+      },
+      "id": "bb66fa19da200232ea99e17af08d25e0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gunnery",
+        "year": 1913,
+        "artist": "Sir Thomas Brock",
+        "description": "Admiralty Arch "
+      },
+      "geometry": {
+        "coordinates": [
+          -0.128694,
+          51.506423
+        ],
+        "type": "Point"
+      },
+      "id": "c17271102e24ab7503e63a132b05592b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Statue of Sir John Everett Millais",
+        "artist": "Sir Thomas Brock",
+        "year": 1905,
+        "description": "",
+        "directions": "",
+        "style": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -0.128921,
+          51.490958
+        ],
+        "type": "Point"
+      },
+      "id": "c20a5afdf170891f6224f2bdc6385565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Navigation",
+        "artist": "Sir Thomas Brock",
+        "year": 1913,
+        "description": "Admiralty Arch "
+      },
+      "geometry": {
+        "coordinates": [
+          -0.129137,
+          51.506824
+        ],
+        "type": "Point"
+      },
+      "id": "eda9e00d67e708cbb7837f2c06f2f032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "W. S. Gilbert Memorial",
+        "artist": "Sir George Frampton",
+        "year": 1914,
+        "description": "",
+        "style": "",
+        "directions": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -0.121718,
+          51.507084
+        ],
+        "type": "Point"
+      },
+      "id": "ef9476f062f45f4cfe7621b3fb179ea2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sir Henry Bartle Frere Memorial",
+        "artist": "Sir Thomas Brock",
+        "year": 1888,
+        "directions": "",
+        "description": "",
+        "style": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -0.123357,
+          51.50564
+        ],
+        "type": "Point"
+      },
+      "id": "f462ecbff1fa36ad64fe332c9dc8b847"
+    }
+  ],
+  "type": "FeatureCollection"
+}
